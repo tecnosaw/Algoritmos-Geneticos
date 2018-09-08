@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536432229 source:c:\users\oscar\desktop\p1_histograma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<allegro.h>
+
+1536419510 source:c:\users\oscar\desktop\p1_histograma\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
